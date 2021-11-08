@@ -1,3 +1,3 @@
 # odin-recipes
 
-Odin HTML foundations
+Odin HTML foundations demonstration
